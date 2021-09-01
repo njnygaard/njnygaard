@@ -8,4 +8,4 @@ You can find a few of my linked identities on [Keybase](https://keybase.io/njnyg
 
 I also exist on [LinkedIn](https://www.linkedin.com/in/nikhil-nygaard/).
 
-![njnygaard's github stats](https://github-readme-stats.vercel.app/api?username=njnygaard&show_icons=true&theme=dark)
+<!--![njnygaard's github stats](https://github-readme-stats.vercel.app/api?username=njnygaard&show_icons=true&theme=dark)
